@@ -11,7 +11,7 @@ PILIHAN_KATEGORI = (
 
 PILIHAN_LABEL = (
     ('NEW', 'primary'),
-    ('SALE', 'info'),
+    ('SALE', 'secondary'),
     ('BEST', 'danger'),
 )
 
